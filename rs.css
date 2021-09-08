@@ -1,0 +1,56 @@
+body{
+	margin: 2% 5% 5% 5%;
+	background-color: black;
+	color: white;
+}
+header{
+	font-family: fantasy;
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 50px;
+}
+img{
+	display: block;
+	background-color: white;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+section{
+	display: inline-block;
+}
+h1{
+	text-align: center;
+}
+img:hover{
+	background-color: violet;
+	width: 105%;
+	height: 105%;
+}
+.right{
+	text-align: center;
+	margin-left:35%;margin-right: 15%
+
+}
+.left{
+	text-align: center;
+	margin-right: 15%;margin-left:15%;
+}
+button{
+	text-align: center;
+}
+.player1{
+	display: inline-block;
+	margin-right: 15%;margin-left:15%;
+}
+.score{
+	text-align: center;
+}
+.player2{
+	display: inline-block;
+	margin-left:35%;margin-right: 15%;	
+}
+button{
+	box-sizing: border-box;
+	background-color: green;
+}
+
